@@ -27,7 +27,7 @@
        margin:50px;
        font-family:courier;
      }
-     .body1{style=background-image:url('Yellow.jpg')>
+     .body1{background-image:url('Yellow.jpg')
      }
    
 
